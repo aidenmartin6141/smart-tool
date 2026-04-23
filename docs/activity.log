@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-04-22T12:37:01Z
-Entry: fix: ensure graceful socket teardown on unexpected process exit
-Sequence: 22/97
+Last updated: 2026-04-23T19:26:07Z
+Entry: test: expand integration test cases for API client
+Sequence: 23/97
