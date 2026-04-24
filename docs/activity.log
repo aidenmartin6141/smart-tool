@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-04-23T19:26:07Z
-Entry: test: expand integration test cases for API client
-Sequence: 23/97
+Last updated: 2026-04-24T12:48:56Z
+Entry: fix: correct typo in documentation and error return strings
+Sequence: 24/97
