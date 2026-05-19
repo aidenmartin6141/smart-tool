@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-15T17:49:56Z
-Entry: feat: add validation schema for runtime configuration options
-Sequence: 37/97
+Last updated: 2026-05-19T21:08:01Z
+Entry: fix: correct typo in documentation and error return strings
+Sequence: 38/97
